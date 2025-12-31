@@ -1,47 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-# VidyaSetu 🌱
+# VidyaSetu
 
-**VidyaSetu** is an initiative focused on empowering learners through education, technology, and innovation.
+### Bridging Education and Technology for Inclusive Growth
 
----
-
-## 🌍 About Us
-VidyaSetu aims to bridge gaps in education by providing accessible learning resources, digital tools, and community-driven projects.
+</div>
 
 ---
 
-## 🎯 Our Focus Areas
-- 📘 Education & Learning Resources  
-- 💻 Technology for Social Impact  
-- 🌱 Skill Development  
-- 🤝 Community Support  
+## 🌱 Who We Are
+**VidyaSetu** is an education-focused initiative dedicated to creating meaningful learning opportunities through technology, innovation, and community collaboration.
+
+We work towards making knowledge more accessible, practical, and future-ready.
 
 ---
 
-## 🚀 What You'll Find Here
+## 🎯 Our Mission
+To empower learners and educators by building digital tools, open resources, and scalable solutions that support education and skill development.
+
+---
+
+## 🧭 Our Focus
+- Education & Learning Platforms  
+- Technology for Social Impact  
+- Skill Development Initiatives  
+- Open Knowledge & Resources  
+
+---
+
+## 🚀 What We Build
 - Open-source educational projects  
-- Learning materials and documentation  
-- Tools to support students and educators  
+- Learning content and documentation  
+- Tools that support students, teachers, and communities  
 
 ---
 
-## 📍 Location
-Navi Mumbai, India
+## 📍 Based In
+**Navi Mumbai, India**
 
 ---
 
-## 📬 Contact
-📧 Email: contact@vidyasetu.org *(update when ready)*  
-🌐 Website: Coming Soon  
+## 🤝 Collaborate With Us
+We welcome:
+- Educators  
+- Developers  
+- Designers  
+- Volunteers  
+- Open-source contributors  
+
+If you believe in accessible education, we’d love to collaborate.
 
 ---
 
-> Together, we build pathways to knowledge.
-<!--
-**somyaagrawalglobal/somyaagrawalglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Contact & Updates
+- 🌐 Website: http://vidya-setu.com/  
+- 📧 Email: info@vidya-setu.com 
 
-Here are some ideas to get you started:
+---
+
+<div align="center">
+
+**Building pathways to knowledge. Shaping future-ready learners.**
+
+</div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
